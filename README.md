@@ -1,9 +1,4 @@
 # 人脸考勤机
-
-<img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/img20220220094051.png?x-oss-process=style/wp" style="width:400px;" />
-
-
-
 ## 一、硬件：
 
 * Windows10或11（无需GPU）或MacOS 都测试可行
